@@ -1,5 +1,4 @@
-#  Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-
+# Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 🧑🏻‍💻 I'm **Aung Ko Min**, a student from [**University of Information Technology**](https://www.uit.edu.mm/) and taking Software Engineering Major.
 
@@ -12,15 +11,19 @@
 - 💬 Ask me about **Javascript**, **nodejs**, flutter.
 
 - 📬 How to reach me: [**Telegram**](https://t.me/haki_yama)
- 
+
 <!-- GitHub Section  -->
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
+
+## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
  <div>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AungKOO" alt="Aung's LangStat" /></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AungKOO&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Aung's language" height="192px"  width="500px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AungKOO&show_icons=true&hide_border=true" alt="Aung's Stats" />
+  <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AungKOO&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Aung's language"/>
+  </p>
+  <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AungKOO&show_icons=true" alt="Aung's Stats"/>
+  </p>
 </div>
-
 
 <!-- GitHub section: END -->
