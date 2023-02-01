@@ -6,7 +6,7 @@
 
 <!-- In 2020, I learnt Flutter, Laravel and tailwind css! In 2021, till now, as coup and covid happen in **myanmar**, all are *postponed*. -->
 
-- 👨‍💻 I'm currently learning [data structure & algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming), AWS and docker.
+- 👨‍💻 I'm currently learning AWS and docker.
 
 - 💬 Ask me about **Javascript**, **nodejs**, flutter.
 
