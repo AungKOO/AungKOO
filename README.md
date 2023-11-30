@@ -19,6 +19,8 @@
 <a href= "https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=35px alt="javascript"/></a>
 <a href= "https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width=35px alt="typescript"/></a>
 <a href="https://www.nextjs.org"> <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width=35px alt="nextjs"/></a>
+<a href= "https://www.react.dev/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=35px alt="react"/></a>
+<a href= "https://www.nestjs.com/"> <img src="https://avatars.githubusercontent.com/u/28507035?s=48&v=4" width=35px alt="nestjs"/></a>
 <a href= "https://www.nodejs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width=35px alt="nodejs"/></a>
 <a href= "https://www.express.com/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width=35px alt="express"/></a>
 <a href= "https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width=35px alt="mongodb"/></a>
