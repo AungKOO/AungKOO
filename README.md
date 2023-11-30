@@ -6,9 +6,9 @@
 
 <!-- In 2020, I learnt Flutter, Laravel and tailwind css! In 2021, till now, as coup and covid happen in **myanmar**, all are *postponed*. -->
 
-- 👨‍💻 I'm currently learning AWS and docker.
+- 👨‍💻 I'm currently learning AWS and nuxt.
 
-- 💬 Ask me about **Javascript**, **nodejs**, flutter.
+- 💬 Ask me about **Javascript**, **next**, flutter.
 
 - 📬 How to reach me: [**Telegram**](https://t.me/haki_yama)
 
